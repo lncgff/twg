@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/joncalhoun/twg/sub"
+	"github.com/lncgff/twg/sub"
 )
 
 func TestDemo(t *testing.T) {

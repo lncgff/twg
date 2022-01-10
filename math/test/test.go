@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	github.com/lncgff/twg/math"
+	"github.com/lncgff/twg/math"
 )
 
 func main() {
